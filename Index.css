@@ -1,0 +1,12 @@
+p{
+    color:blue;
+    text-transform: uppercase;
+}
+
+h2{
+    font-size: 50px;
+}
+
+.uppercase{
+    text-transform: lowercase;
+}
